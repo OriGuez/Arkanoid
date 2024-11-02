@@ -1,11 +1,8 @@
 # Arkanoid
 Instructions to Download, Build, and Run the Game
 1. Clone the Repository:
-  Download the project files from GitHub, including biuoop.jar:
-  bash
-  Copy code
-  git clone https://github.com/OriGuez/Arkanoid.git
-  cd Arkanoid
+  Download the project files from GitHub, including biuoop.jar.
+
 2. Open the Project in a Java IDE:
   Open the project in an IDE such as IntelliJ IDEA or Eclipse.
 
